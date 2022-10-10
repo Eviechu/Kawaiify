@@ -507,3 +507,11 @@ a {
 	color: white;
 	background-color: var(--spice-subtext);
 }
+
+.x-categoryCard-CategoryCard:after {
+	background-color: var(--spice-sidebar);
+}
+
+.main-notificationBubble-NotificationBubble {
+	color: var(--spice-main);
+}
